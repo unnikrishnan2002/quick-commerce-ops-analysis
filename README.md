@@ -6,7 +6,7 @@ The dataset simulates ~1 million orders across 8 major quick commerce platforms 
 
 ---
 
-![Dashboard Screenshot](dashboard.png)
+![Dashboard Screenshot](dashboard.PNG)
 
 ---
 
